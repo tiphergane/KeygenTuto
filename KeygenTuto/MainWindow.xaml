@@ -1,0 +1,16 @@
+﻿<Window x:Class="KeygenTuto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KeygenTuto"
+        mc:Ignorable="d"
+        Title="Keygen For Winblahblah" Height="177.476" Width="322.015">
+    <Grid Margin="0,0,2,-3">
+        <TextBox x:Name="IDC_Name" Margin="10,18,10,0" TextWrapping="Wrap" TextChanged="IDC_Name_TextChanged" Height="34" VerticalAlignment="Top"/>
+        <TextBox x:Name="IDC_Serial" Margin="10,57,10,0" TextWrapping="Wrap" Height="34" VerticalAlignment="Top"/>
+        <Button x:Name="IDC_About" Content="About" Margin="0,0,170,10" RenderTransformOrigin="0.866,0.235" Click="IDC_About_Click" Height="34" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="92"/>
+        <Button x:Name="IDC_Quitter" Content="Quitter" Margin="0,0,48,10" RenderTransformOrigin="-0.139,0.425" Click="IDC_Quitter_Click" Height="34" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="100"/>
+
+    </Grid>
+</Window>

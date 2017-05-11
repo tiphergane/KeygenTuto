@@ -1,0 +1,14 @@
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\MainWindow.g.cs
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\App.g.cs
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto_MarkupCompile.cache
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto_MarkupCompile.lref
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\bin\Debug\KeygenTuto.exe.config
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\bin\Debug\KeygenTuto.exe
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\bin\Debug\KeygenTuto.pdb
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\MainWindow.baml
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.g.resources
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.Properties.Resources.resources
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.csproj.GenerateResource.Cache
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.exe
+f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.pdb
