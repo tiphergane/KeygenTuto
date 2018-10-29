@@ -14,6 +14,10 @@ namespace KeygenTuto
         {
             InitializeComponent();
             this.Title = "Keygen for WinBlahBlah";
+            this.IDC_Name.TextAlignment = TextAlignment.Center;
+            this.IDC_Serial.TextAlignment = TextAlignment.Center;
+            this.WindowStartupLocation = WindowStartupLocation.CenterScreen;
+            this.ResizeMode = ResizeMode.NoResize;
         }
         #region Bouton
         private void IDC_Quitter_Click(object sender, RoutedEventArgs e)
@@ -29,9 +33,6 @@ namespace KeygenTuto
 
         private void IDC_Name_TextChanged(object sender, TextChangedEventArgs e)
         {
-            IDC_Name.TextAlignment = TextAlignment.Center;
-            IDC_Serial.TextAlignment = TextAlignment.Center;
-
             if (IDC_Name.GetLineLength(0) > 3 && IDC_Name.GetLineLength(0) < 28)
             {
                 GenSerial();
@@ -44,7 +45,7 @@ namespace KeygenTuto
 
         private void GenSerial()
         {
-            // Pour encoder en URF8 notre chaine de caractère
+            // Pour encoder en UTF8 notre chaine de caractère
             byte[] Name = Encoding.Default.GetBytes(IDC_Name.Text);
             string Nickname = Encoding.UTF8.GetString(Name);
 
