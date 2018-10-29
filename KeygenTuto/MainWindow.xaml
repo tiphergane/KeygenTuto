@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KeygenTuto"
         mc:Ignorable="d"
-        Title="Keygen For Winblahblah" Height="177.476" Width="322.015">
+        Title="" Height="177.476" Width="322.015">
     <Grid Margin="0,0,2,-3">
         <TextBox x:Name="IDC_Name" Margin="10,18,10,0" TextWrapping="Wrap" TextChanged="IDC_Name_TextChanged" Height="34" VerticalAlignment="Top"/>
         <TextBox x:Name="IDC_Serial" Margin="10,57,10,0" TextWrapping="Wrap" Height="34" VerticalAlignment="Top"/>

@@ -12,3 +12,18 @@ f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenT
 f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.csproj.GenerateResource.Cache
 f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.exe
 f:\documents\visual studio 2017\Projects\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.pdb
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\bin\Debug\KeygenTuto.exe.config
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\bin\Debug\KeygenTuto.exe
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\bin\Debug\KeygenTuto.pdb
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.csprojAssemblyReference.cache
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\MainWindow.g.cs
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\App.g.cs
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto_MarkupCompile.cache
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto_MarkupCompile.lref
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\MainWindow.baml
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.g.resources
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.Properties.Resources.resources
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.csproj.GenerateResource.cache
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.csproj.CoreCompileInputs.cache
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.exe
+C:\Users\tiphergane\Source\Repos\KeygenTuto\KeygenTuto\obj\Debug\KeygenTuto.pdb

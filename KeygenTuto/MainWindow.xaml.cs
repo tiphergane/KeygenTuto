@@ -13,6 +13,7 @@ namespace KeygenTuto
         public MainWindow()
         {
             InitializeComponent();
+            this.Title = "Keygen for WinBlahBlah";
         }
         #region Bouton
         private void IDC_Quitter_Click(object sender, RoutedEventArgs e)
@@ -35,12 +36,10 @@ namespace KeygenTuto
             {
                 GenSerial();
             }
-            if ( IDC_Name.GetLineLength(0) < 1)
-                {
+            else
+            {
                 IDC_Serial.Text = "Vous devez être entre 3 et 28 caractères";
             }
-            else
-                IDC_Serial.Text = "Vous devez être entre 3 et 28 caractères";
         }
 
         private void GenSerial()
